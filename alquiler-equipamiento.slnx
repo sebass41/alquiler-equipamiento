@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="../../../../../../source/repos/alquiler-equipamiento/Persistencia/Persistencia.csproj" Id="54ca9db4-5191-4bc7-8c64-bcb100a836d6" />
-  <Project Path="../../../../../../source/repos/alquiler-equipamiento/WinFormsApp1/WinFormsApp1.csproj" />
+  <Project Path="Entidades/Entidades.csproj" Id="164a3358-f9ac-48c6-b308-914ffe5627c6" />
+  <Project Path="Guid/WinFormsApp1.csproj" />
+  <Project Path="Persistencia/Persistencia.csproj" />
 </Solution>
